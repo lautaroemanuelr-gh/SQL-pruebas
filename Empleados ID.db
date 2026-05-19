@@ -1,5 +1,5 @@
 ID_Empleado,Nombre,Puesto,Salario,ID_Depto
-101,Ana García,Analista,2500,1
+101,Ana García,Analista,2500,15
 102,Luis Pérez,Desarrollador,3000,1
 103,María López,Gerente,4500,2
 104,Carlos Ruiz,Soporte,2200,3
